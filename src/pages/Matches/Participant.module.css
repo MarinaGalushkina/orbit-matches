@@ -1,0 +1,21 @@
+.matchesGroupContainer {
+  position: relative;
+  outline: 0;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  padding: 1.5rem;
+  background-color: #E7EBF0;
+  width: 40rem;
+}
+
+.matchParticipant {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 0.2rem 0;
+}
+
+.participantInfo {
+  padding-left: 0.5rem;
+}

@@ -1,0 +1,11 @@
+.matchesGroupContainer {
+  position: relative;
+  outline: 0;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  padding: 24px;
+  background-color: #E7EBF0;
+  width: 40rem;
+}
+

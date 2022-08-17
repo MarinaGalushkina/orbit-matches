@@ -1,0 +1,290 @@
+[
+  {
+    "matchGroupId": "1f577651-c069-4f30-836a-e8e13e46aae5",
+    "score": 3.1678,
+    "participants": [
+      "1693d340-ebc9-4317-b2bc-532c6cd883d6",
+      "b0d0abdc-3684-4742-9c88-8b6ae5855568"
+    ]
+  },
+  {
+    "matchGroupId": "1f577651-c069-4f30-836a-e8e13e46aae6",
+    "score": 6.4455,
+    "participants": [
+      "97b5a882-0c15-49a0-82b0-a78b88cd9f61",
+      "1693d340-ebc9-4317-b2bc-532c6cd883d6"
+    ]
+  },
+  {
+    "matchGroupId": "1f577651-c069-4f30-836a-e8e13e46aae7",
+    "score": 7.3468,
+    "participants": [
+      "97b5a882-0c15-49a0-82b0-a78b88cd9f61",
+      "b0d0abdc-3684-4742-9c88-8b6ae5855568"
+    ]
+  },
+  {
+    "matchGroupId": "424eddd7-c989-412e-9add-e97435ba48c6",
+    "score": 6.8139,
+    "participants": [
+      "3b31f5cc-d8f1-4894-8668-43fc3a22f126",
+      "ab00886d-cb73-4dc9-99e3-81a3db490ac3"
+    ]
+  },
+  {
+    "matchGroupId": "5a87b6db-9d78-4933-90b9-01df433a614a",
+    "score": 3.8704,
+    "participants": [
+      "02a2ae75-c844-4501-8f5f-4407e6d7768e",
+      "37d991b1-e470-4bb9-bcda-e377042ec3e9"
+    ]
+  },
+  {
+    "matchGroupId": "5c31d051-e578-4f79-a52c-2e0835e81fa1",
+    "score": 5.4848,
+    "participants": [
+      "dc33253b-cd85-481a-938e-7519a6704ba7",
+      "837854f1-75aa-4882-ae98-7d12932093da"
+    ]
+  },
+  {
+    "matchGroupId": "765dad9c-09bb-49b0-9745-6ab244fc775b",
+    "score": 1.5968,
+    "participants": [
+      "fe8d0d72-609c-46f7-9fa8-7bccdf9559cb",
+      "e8b573b2-8c85-4fc7-a91a-80ff1256502f"
+    ]
+  },
+  {
+    "matchGroupId": "765dad9c-09bb-49b0-9745-6ab244fc775b",
+    "score": 3.6993,
+    "participants": [
+      "bab43bbf-0d1c-4f01-bd82-bb9bb017335c",
+      "f375eb97-b867-4a36-b093-964df9e6ce8a"
+    ]
+  },
+  {
+    "matchGroupId": "765dad9c-09bb-49b0-9745-6ab244fc775b",
+    "score": 7.4434,
+    "participants": [
+      "fe8d0d72-609c-46f7-9fa8-7bccdf9559cb",
+      "bab43bbf-0d1c-4f01-bd82-bb9bb017335c"
+    ]
+  },
+  {
+    "matchGroupId": "765dad9c-09bb-49b0-9745-6ab244fc775b",
+    "score": 7.7864,
+    "participants": [
+      "e8b573b2-8c85-4fc7-a91a-80ff1256502f",
+      "bab43bbf-0d1c-4f01-bd82-bb9bb017335c"
+    ]
+  },
+  {
+    "matchGroupId": "765dad9c-09bb-49b0-9745-6ab244fc775b",
+    "score": 8.04,
+    "participants": [
+      "fe8d0d72-609c-46f7-9fa8-7bccdf9559cb",
+      "f375eb97-b867-4a36-b093-964df9e6ce8a"
+    ]
+  },
+  {
+    "matchGroupId": "765dad9c-09bb-49b0-9745-6ab244fc775b",
+    "score": 9.138,
+    "participants": [
+      "e8b573b2-8c85-4fc7-a91a-80ff1256502f",
+      "f375eb97-b867-4a36-b093-964df9e6ce8a"
+    ]
+  },
+  {
+    "matchGroupId": "8c1736c7-874f-4463-b85f-5a8adae41de6",
+    "score": 7.1495,
+    "participants": [
+      "a624e2f8-77ae-4b1f-863a-c0d7eec8d779",
+      "2445ba99-a9d1-4408-be4f-e1f212eb403d"
+    ]
+  },
+  {
+    "matchGroupId": "8ee8b2c4-a251-4792-a572-238b95118304",
+    "score": 4.3482,
+    "participants": [
+      "bbddadc0-f146-4f69-ae63-b8c06fd84f5c",
+      "c420a2ad-0362-4d42-8fd0-3f5ac3d7bf2b"
+    ]
+  },
+  {
+    "matchGroupId": "8ee8b2c4-a251-4792-a572-238b95118305",
+    "score": 5.9455,
+    "participants": [
+      "74eae4d2-86eb-4f12-a92d-6a602d35b888",
+      "bbddadc0-f146-4f69-ae63-b8c06fd84f5c"
+    ]
+  },
+  {
+    "matchGroupId": "8ee8b2c4-a251-4792-a572-238b95118306",
+    "score": 8.282,
+    "participants": [
+      "74eae4d2-86eb-4f12-a92d-6a602d35b888",
+      "c420a2ad-0362-4d42-8fd0-3f5ac3d7bf2b"
+    ]
+  },
+  {
+    "matchGroupId": "9ab89240-2350-40ea-8bcb-c0a8342efc14",
+    "score": 7.0659,
+    "participants": [
+      "972a7c90-01ff-4033-bec2-d23fed2365a6",
+      "dde2e750-ad94-42fb-b506-5d9cbd517b7d"
+    ]
+  },
+  {
+    "matchGroupId": "9fc48bfa-2099-4629-b2ae-d16fa9721b22",
+    "score": 7.3007,
+    "participants": [
+      "f70f139b-291a-4b35-aa39-f4e90da84319",
+      "dfbec813-dad1-46cb-b98d-423fb49b65a8"
+    ]
+  },
+  {
+    "matchGroupId": "9fc48bfa-2099-4629-b2ae-d16fa9721b23",
+    "score": 5.8885,
+    "participants": [
+      "72cae0d6-b293-486d-8856-07d9e1604939",
+      "f70f139b-291a-4b35-aa39-f4e90da84319"
+    ]
+  },
+  {
+    "matchGroupId": "9fc48bfa-2099-4629-b2ae-d16fa9721b24",
+    "score": 7.5692,
+    "participants": [
+      "72cae0d6-b293-486d-8856-07d9e1604939",
+      "dfbec813-dad1-46cb-b98d-423fb49b65a8"
+    ]
+  },
+  {
+    "matchGroupId": "aa48f43e-c9dd-4290-8dee-f56e70712199",
+    "score": 5.4576,
+    "participants": [
+      "1412b766-a2ce-4309-b931-98ac5b4e405e",
+      "a6fc92cd-5374-43f2-98d7-8b65128c2b38"
+    ]
+  },
+  {
+    "matchGroupId": "aa48f43e-c9dd-4290-8dee-f56e70712199",
+    "score": 7.3814,
+    "participants": [
+      "1412b766-a2ce-4309-b931-98ac5b4e405e",
+      "5e76093c-01fd-42ef-bd35-8dcf83231aec"
+    ]
+  },
+  {
+    "matchGroupId": "aa48f43e-c9dd-4290-8dee-f56e70712199",
+    "score": 9.8661,
+    "participants": [
+      "a6fc92cd-5374-43f2-98d7-8b65128c2b38",
+      "5e76093c-01fd-42ef-bd35-8dcf83231aec"
+    ]
+  },
+  {
+    "matchGroupId": "bc2df096-508e-4dd4-8fea-d3937295457c",
+    "score": 0.8318,
+    "participants": [
+      "d6d0d887-db24-45b3-9940-5f6faaa4e9af",
+      "f74f983e-9936-4276-936a-14953651d61e"
+    ]
+  },
+  {
+    "matchGroupId": "bc2df096-508e-4dd4-8fea-d3937295457c",
+    "score": 1.1053,
+    "participants": [
+      "fb141145-a479-42ea-84e3-506c55304070",
+      "f74f983e-9936-4276-936a-14953651d61e"
+    ]
+  },
+  {
+    "matchGroupId": "bc2df096-508e-4dd4-8fea-d3937295457c",
+    "score": 4.4616,
+    "participants": [
+      "d6d0d887-db24-45b3-9940-5f6faaa4e9af",
+      "fb141145-a479-42ea-84e3-506c55304070"
+    ]
+  },
+  {
+    "matchGroupId": "bd2a1d3d-2121-400a-a969-fa27cfa59cd0",
+    "score": 2.3704,
+    "participants": [
+      "e8af9c20-2b0e-4b9c-8a58-9a06bd2b552d",
+      "8562efb4-b62f-487a-9252-304a99e8c8b8"
+    ]
+  },
+  {
+    "matchGroupId": "ce338a39-aeec-432b-9e10-8d3472df9760",
+    "score": 1.5524,
+    "participants": [
+      "29bf0b38-dee3-4d0e-8f31-7b5b5bd2be6a",
+      "c592ad5f-126d-47d3-a878-e5a683bc382a"
+    ]
+  },
+  {
+    "matchGroupId": "ce338a39-aeec-432b-9e10-8d3472df9760",
+    "score": 2.7199,
+    "participants": [
+      "29bf0b38-dee3-4d0e-8f31-7b5b5bd2be6a",
+      "2fee7b75-f5cc-4c30-806d-c90b8c8f865d"
+    ]
+  },
+  {
+    "matchGroupId": "ce338a39-aeec-432b-9e10-8d3472df9760",
+    "score": 3.913,
+    "participants": [
+      "2fee7b75-f5cc-4c30-806d-c90b8c8f865d",
+      "c592ad5f-126d-47d3-a878-e5a683bc382a"
+    ]
+  },
+  {
+    "matchGroupId": "e1596c2a-27c2-4b73-b036-7b0283da1355",
+    "score": 0.3744,
+    "participants": [
+      "84ff0bf4-763b-420b-82e3-c9f5a9423947",
+      "decd6c0a-d41a-468d-a95d-2b0dec4fec8d"
+    ]
+  },
+  {
+    "matchGroupId": "e1596c2a-27c2-4b73-b036-7b0283da1355",
+    "score": 7.2954,
+    "participants": [
+      "80413552-4b49-4cbe-903e-7aa4a39ac6bd",
+      "decd6c0a-d41a-468d-a95d-2b0dec4fec8d"
+    ]
+  },
+  {
+    "matchGroupId": "e1596c2a-27c2-4b73-b036-7b0283da1355",
+    "score": 7.908,
+    "participants": [
+      "80413552-4b49-4cbe-903e-7aa4a39ac6bd",
+      "84ff0bf4-763b-420b-82e3-c9f5a9423947"
+    ]
+  },
+  {
+    "matchGroupId": "fbd4fbde-5aa1-4b02-98bb-3824bb6185ed",
+    "score": 1.5145,
+    "participants": [
+      "163aaa6d-d0ea-49d3-b942-6e199d062877",
+      "0030b5c5-5ec0-4795-b9d1-b49230140baf"
+    ]
+  },
+  {
+    "matchGroupId": "fbd4fbde-5aa1-4b02-98bb-3824bb6185ed",
+    "score": 9.2342,
+    "participants": [
+      "0030b5c5-5ec0-4795-b9d1-b49230140baf",
+      "3ae4e35f-2a4b-40c8-8161-75c62d4b2212"
+    ]
+  },
+  {
+    "matchGroupId": "fbd4fbde-5aa1-4b02-98bb-3824bb6185ed",
+    "score": 9.3941,
+    "participants": [
+      "163aaa6d-d0ea-49d3-b942-6e199d062877",
+      "3ae4e35f-2a4b-40c8-8161-75c62d4b2212"
+    ]
+  }
+]
